@@ -1,0 +1,12 @@
+Cabin : 0  is Empty cabin
+Cabin : 1    Passengers Name : 2324
+Cabin : 2    Passengers Name : srhwt4
+Cabin : 3  is Empty cabin
+Cabin : 4    Passengers Name : rthjtyehst
+Cabin : 5  is Empty cabin
+Cabin : 6  is Empty cabin
+Cabin : 7  is Empty cabin
+Cabin : 8  is Empty cabin
+Cabin : 9  is Empty cabin
+Cabin : 10  is Empty cabin
+Cabin : 11    Passengers Name : kugiyf
